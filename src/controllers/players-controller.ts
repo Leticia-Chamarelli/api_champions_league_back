@@ -12,3 +12,7 @@ export const getPlayerById = async (req: Request, res: Response) => {
     res.status(HttpResponse.statusCode).json(HttpResponse.body);
 };
 
+export const postPlayer = async (req: Request, res: Response) => {
+
+};
+
