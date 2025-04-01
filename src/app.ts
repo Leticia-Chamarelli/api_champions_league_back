@@ -1,4 +1,5 @@
 import express, { json, Request, Response } from "express";
+import { getPlayer } from "./controllers/players-controller";
 
 function createApp(){
 
@@ -6,9 +7,7 @@ function createApp(){
 
     app.use(json());
 
-    app.get("/", (req: Request, res: Response) => {
-    res.status(200).json({player: "Messi"});
-});
+    app.get("/", getPlayer);
 
 return app;
 
