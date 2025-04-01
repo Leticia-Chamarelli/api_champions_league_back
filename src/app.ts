@@ -1,5 +1,4 @@
 import express, { json } from "express";
-import { getPlayer } from "./controllers/players-controller";
 import router from "./routes";
 
 function createApp(){
