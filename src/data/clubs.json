@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Real Madrid"
+    },
+    {
+        "id": 2,
+        "name": "Barcelona"
+    },
+    {
+        "id": 3,
+        "name": "Manchester City"
+    },
+    {
+        "id": 4,
+        "name": "Arsenal"
+    },
+    {
+        "id": 5,
+        "name": "Aston Villa"
+    },
+    {
+        "id": 6,
+        "name": "Liverpool"
+    },
+    {
+        "id": 7,
+        "name": "Atlético de Madrid"
+    },
+    {
+        "id": 8,
+        "name": "Girona"
+    },
+    {
+        "id": 9,
+        "name": "Bayern Munich"
+    },
+    {
+        "id": 10,
+        "name": "Borussia Dortmund"
+    },
+    {
+        "id": 11,
+        "name": "RB Leipzig"
+    },
+    {
+        "id": 12,
+        "name": "Bayer Leverkusen"
+    },
+    {
+        "id": 13,
+        "name": "VfB Stuttgart"
+    },
+    {
+        "id": 14,
+        "name": "Inter Milan"
+    },
+    {
+        "id": 15,
+        "name": "AC Milan"
+    },
+    {
+        "id": 16,
+        "name": "Juventus"
+    },
+    {
+        "id": 17,
+        "name": "Atalanta"
+    },
+    {
+        "id": 18,
+        "name": "Bologna"
+    },
+    {
+        "id": 19,
+        "name": "Paris Saint-Germain"
+    },
+    {
+        "id": 20,
+        "name": "AS Monaco"
+    },
+    {
+        "id": 21,
+        "name": "Stade Brestois 29"
+    },
+    {
+        "id": 22,
+        "name": "Feyenoord"
+    },
+    {
+        "id": 23,
+        "name": "PSV Eindhoven"
+    },
+    {
+        "id": 24,
+        "name": "Benfica"
+    },
+    {
+        "id": 25,
+        "name": "Sporting CP"
+    },
+    {
+        "id": 26,
+        "name": "Club Brugge"
+    },
+    {
+        "id": 27,
+        "name": "GNK Dinamo"
+    },
+    {
+        "id": 28,
+        "name": "Sparta Praha"
+    },
+    {
+        "id": 29,
+        "name": "Celtic"
+    },
+    {
+        "id": 30,
+        "name": "Crvena Zvezda"
+    },
+    {
+        "id": 31,
+        "name": "Slovan Bratislava"
+    },
+    {
+        "id": 32,
+        "name": "Young Boys"
+    },
+    {
+        "id": 33,
+        "name": "Shakhtar Donetsk"
+    },
+    {
+        "id": 34,
+        "name": "Red Bull Salzburg"
+    },
+    {
+        "id": 35,
+        "name": "Sturm Graz"
+    },
+    {
+        "id": 36,
+        "name": "Olympique de Marseille"
+    }
+]
